@@ -1,9 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Preview of the Application:
-![](https://github.com/priyanshtiwari001/review-system-mazinda/assets/64392162/95b66b99-617d-4260-871f-9d1af01f8129)
 
-## Getting Started
+<img width="1404" alt="Screenshot 2024-02-21 at 7 51 04 PM" src="https://github.com/priyanshtiwari001/review-system-mazinda/assets/64392162/47956a1d-550b-4233-aa22-8d5c169848aa">
+
+
 
 First, run the development server:
 
