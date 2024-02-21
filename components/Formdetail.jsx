@@ -19,7 +19,6 @@ function Formdetails() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    console.log(starCount, userName, descriptions);
     try {
       const res = await fetch("http://localhost:3000/api/review", {
         method: "POST",

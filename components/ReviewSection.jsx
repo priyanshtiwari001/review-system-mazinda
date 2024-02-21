@@ -44,7 +44,6 @@ const UserReviews = [
 
 const ReviewSection = async () => {
   const { reviews } = await getReviews();
-  console.log(reviews);
   return (
     <div className="py-5">
       <div className="flex flex-col md:flex-row flex-wrap justify-center gap-4">
