@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Preview of the Application:
-
+https://github.com/priyanshtiwari001/review-system-mazinda/assets/64392162/95b66b99-617d-4260-871f-9d1af01f8129
 
 ## Getting Started
 
